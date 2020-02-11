@@ -6,7 +6,7 @@ public class NestedScopesExample {
 
     public void printTitle() {
         System.out.println(title);
-        String title = "John Doe";
+        String title = "John Dosa";
         System.out.println(title);
     }
 }
